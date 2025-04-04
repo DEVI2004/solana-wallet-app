@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+  }
+  
+  .navbar-list {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+  }
+  
+  .navbar-list li {
+    margin-left: 20px;
+  }
+  
+  .navbar-list a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navbar-list button {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
